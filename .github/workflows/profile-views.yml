@@ -1,0 +1,16 @@
+name: Profile Views Counter
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-profile-views:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update profile views
+        run: |
+          echo "Profile views counter is handled by external service"
+          echo "The counter badge in README.md automatically updates"
