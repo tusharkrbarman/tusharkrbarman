@@ -1,18 +1,28 @@
-<h1 align="center">👋 Hi, I'm Tushar - Software Engineer & DevOps Engineer at Intel</h1>
-
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=tusharkrbarman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+# Tushar Barman
+
+**Software Engineer & DevOps Engineer @ Intel**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=tusharkrbarman&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/tusharkrbarman)
+
 </div>
 
-## 🎯 **Dual Expertise at Intel**
+---
 
-### **Software Engineer** 
+## 🎯 What I Do
+
+I build developer tools and infrastructure that make software engineering more efficient. At Intel, I work at the intersection of **software engineering** and **DevOps**, creating solutions that enhance developer productivity and streamline deployment processes.
+
+### Software Engineering
 Building VS extensions that enhance developer productivity with Intel's compiler toolchain
 
-### **DevOps Engineer**
+### DevOps Engineering  
 Automating CI/CD pipelines, infrastructure as code, and deployment processes for developer tooling
 
-## 🛠️ **Dual Tech Stack**
+---
+
+## 🛠️ Tech Stack
 
 | **Software Engineering** | **DevOps** |
 |--------------------------|------------|
@@ -23,17 +33,21 @@ Automating CI/CD pipelines, infrastructure as code, and deployment processes for
 | C++ | Terraform |
 | React | CI/CD |
 
-## 📊 **GitHub Stats**
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=tusharkrbarman&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tusharkrbarman&show_icons=true&theme=radical&hide_border=false&bg_color=0d1117&title_color=0066cc&icon_color=0066cc&text_color=ffffff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tusharkrbarman&theme=radical&hide_border=false&background=0d1117&stroke=0066cc&ring=0066cc&fire=0066cc&currStreakLabel=0066cc&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
+
 </div>
 
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharkrbarman&theme=radical&hide_border=false" alt="GitHub Streak" />
-</div>
+---
 
-## 🚀 **Featured Projects** *(Showcasing Both Skills)*
+## 🚀 Featured Projects
 
 | Project | Skills | Description |
 |---------|--------|-------------|
@@ -44,24 +58,31 @@ Automating CI/CD pipelines, infrastructure as code, and deployment processes for
 | **SpamDetection** | Python, ML | ML pipeline for spam classification |
 | **AtmUI** | Java | Banking system simulation |
 
-## 🏆 **Achievements**
+---
 
-![Pair Extraordinaire](https://img.shields.io/badge/Pair%20Extraordinaire-%233%20times-success)
-![Pull Shark](https://img.shields.io/badge/Pull%20Shark-%232%20times-blue)
-![Arctic Code Vault](https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-blue)
+## 🏆 Achievements
 
-## 🔗 **Connect With Me**
+![Pair Extraordinaire](https://img.shields.io/badge/Pair%20Extraordinaire-%233%20times-success?style=for-the-badge&logo=github)
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-%232%20times-blue?style=for-the-badge&logo=github)
+![Arctic Code Vault](https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-blue?style=for-the-badge&logo=github)
+
+---
+
+## 🔗 Connect
 
 <div align="center">
- 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusharkbarman19)
- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://tusharkrbarman.github.io/Portfolio/)
- 
- <p><strong>📧 Email:</strong> Available upon request</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusharkbarman19)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://tusharkrbarman.github.io/Portfolio/)
+
+**📧 Email:** Available upon request
+
 </div>
 
 ---
 
 <div align="center">
- <p><em>Currently building tools that help developers work more efficiently at Intel</em></p>
+
+*Currently building tools that help developers work more efficiently at Intel*
+
 </div>
