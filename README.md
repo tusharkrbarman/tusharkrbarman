@@ -118,8 +118,6 @@ I'm a passionate **Software Engineer & DevOps Engineer** at Intel, specializing 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://tusharkrbarman.github.io/Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tusharkrbarman)
 
-**📧 Email:** Available upon request
-
 </div>
 
 ---
