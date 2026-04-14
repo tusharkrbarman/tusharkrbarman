@@ -58,11 +58,11 @@ I'm a passionate **Software Engineer & DevOps Engineer** at Intel, specializing 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tusharkrbarman&show_icons=true&theme=radical&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tusharkrbarman&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tusharkrbarman&theme=radical&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tusharkrbarman&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharkrbarman&theme=radical&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharkrbarman&theme=radical&layout=compact)
 
 </div>
 
