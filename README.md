@@ -93,6 +93,23 @@ I'm a passionate **Software Engineer & DevOps Engineer** at Intel, specializing 
 
 ---
 
+## 🌟 Open Source Contributions
+
+<div align="center">
+
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2020%2C2021%2C2022-success?style=for-the-badge&logo=hacktoberfest&logoColor=white)
+![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=open-source-initiative&logoColor=white)
+
+</div>
+
+### 🎯 Notable Contributions
+
+- **Hacktoberfest Participant** - Contributed to open source projects during Hacktoberfest 2020, 2021, and 2022
+- **Open Source Enthusiast** - Actively contributing to various open source projects and communities
+- **Community Builder** - Helping improve developer tools and resources for the open source community
+
+---
+
 ## 🔗 Connect With Me
 
 <div align="center">
