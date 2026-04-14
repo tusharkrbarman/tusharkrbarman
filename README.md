@@ -58,9 +58,9 @@ I'm a passionate **Software Engineer & DevOps Engineer** at Intel, specializing 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tusharkrbarman&show_icons=true)
+![GitHub Activity Graph](https://ghchart.rshah.org/tusharkrbarman)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tusharkrbarman)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=tusharkrbarman)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharkrbarman)
 
