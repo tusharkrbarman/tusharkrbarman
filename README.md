@@ -58,11 +58,11 @@ I'm a passionate **Software Engineer & DevOps Engineer** at Intel, specializing 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tusharkrbarman&show_icons=true&theme=radical&hide_border=false&bg_color=0d1117&title_color=0066cc&icon_color=0066cc&text_color=ffffff&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tusharkrbarman&show_icons=true&theme=radical&hide_border=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tusharkrbarman&theme=radical&hide_border=false&background=0d1117&stroke=0066cc&ring=0066cc&fire=0066cc&currStreakLabel=0066cc&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tusharkrbarman&theme=radical&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharkrbarman&theme=radical&hide_border=false&bg_color=0d1117&title_color=0066cc&text_color=ffffff&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharkrbarman&theme=radical&hide_border=false&layout=compact)
 
 </div>
 
